@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 
     //Reset
-
+    setResetButton();
     //One party moves at time
 
     //Winning condition checking
